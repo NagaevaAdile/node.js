@@ -1,0 +1,16 @@
+{
+  "name": "4less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "yargs": "^17.0.1"
+  }
+}
